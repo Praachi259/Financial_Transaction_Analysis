@@ -4,7 +4,7 @@
 
 
 ## Overview
-This document provides an analysis of financial transactions using Power BI Desktop. The report includes insights into revenue trends, transaction volume, customer demographics, and expenditure patterns based on different attributes such as education level, job category, income group, and age group.
+This Project provides an analysis of financial transactions using Power BI Desktop. The report includes insights into revenue trends, transaction volume, customer demographics, and expenditure patterns based on different attributes such as education level, job category, income group, and age group.
 
 ## Key Metrics
 Total Revenue: $55M
